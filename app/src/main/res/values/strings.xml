@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountryBorders</string>
+    <string name="spinner_title">Loading countries</string>
+    <string name="spinner_content">Please wait</string>
+    <string name="none">None</string>
+    <string name="ok">OK</string>
+    <string name="borders_title">%s borders</string>
+    <string name="error_fetching">Error fetching countries from server</string>
+    <string name="lf">\n</string>
+</resources>
